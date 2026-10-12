@@ -20,7 +20,7 @@ As telas, em ordem:
 7. **O pedido:** a foto do anel, dias de namoro e quanto falta pro próximo mesversário.
 8. **A artista do ano:** Beyoncé (3 das 7 músicas).
 9. **Top músicas:** com as capas.
-10. **Fotos nossas:** um mosaico de fotos andando e o número 121.
+10. **Fotos nossas:** um mosaico de fotos andando e o número 191 (o total de fotos do site eu-e-voce).
 11. **Motivos:** os 16 motivos passando rápido.
 12. **A personalidade do casal:** sai dos números do WhatsApp ("os grudados", "os da madrugada"...).
 13. **O resumo:** o cartão com tudo, e um botão pra salvar como imagem (no iPhone abre o
